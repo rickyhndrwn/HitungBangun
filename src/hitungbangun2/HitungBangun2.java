@@ -6,7 +6,7 @@ public class HitungBangun2 {
     DecimalFormat df = new DecimalFormat("##.##");
     GUIHitungBangun2 gHB = new GUIHitungBangun2();
     private HitungBangun2 hB;
-    String c = "Jono";
+    String a = "Joni";
     
     public void clear(){
         gHB.jariText.setText("");
