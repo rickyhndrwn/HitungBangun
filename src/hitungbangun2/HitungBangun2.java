@@ -7,6 +7,7 @@ public class HitungBangun2 {
     GUIHitungBangun2 gHB = new GUIHitungBangun2();
     private HitungBangun2 hB;
     String a = "Joni";
+    String b = "Joko";
     
     public void clear(){
         gHB.jariText.setText("");
