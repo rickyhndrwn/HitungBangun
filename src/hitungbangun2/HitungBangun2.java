@@ -8,6 +8,7 @@ public class HitungBangun2 {
     private HitungBangun2 hB;
     String a = "Joni";
     String b = "Joko";
+    String c = "Jono";
     
     public void clear(){
         gHB.jariText.setText("");
